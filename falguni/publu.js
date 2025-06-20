@@ -1,2 +1,1 @@
-test
-test 1
+console.log(6+6)
